@@ -4,7 +4,7 @@ Hi 👋 My name is Kadir Kutluhan Alev
 iOS Developer
 -------------
 
-In my first year of university, I tried many different fields and tried to find the most suitable one for myself. In this process, I tried different areas such as JavaScript, C#, Android, iOS, Java, Unity. Finally, in 2018, I decided on iOS and moved forward in this field. I have been continuing my professional career by working in many different mobile applications and teams for a little more than 3 years.
+iOS Developer since 2019
 
 * 🌍  I'm based in Antalya
 * ✉️  You can contact me at [kadiralevis1@gmail.com](mailto:kadiralevis1@gmail.com)
